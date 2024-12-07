@@ -1,0 +1,13 @@
+/*header*/
+header{
+    background: black;
+    color:white;
+    padding:20px;
+}
+/*header_lista*/
+.header_lista{
+    display:flex;
+    gap:20px;
+    list-style: none;
+    justify-content: center;
+}

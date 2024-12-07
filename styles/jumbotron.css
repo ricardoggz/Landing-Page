@@ -1,0 +1,9 @@
+/*Jumbotron*/
+.jumbotron{
+    align-items: center;
+    background: rgb(66, 125, 208);
+    color:white;
+    display: flex;
+    height: 400px;
+    justify-content: center;
+}
